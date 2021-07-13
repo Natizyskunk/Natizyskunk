@@ -1,5 +1,31 @@
 ### Hi there 👋
 
+const Natan = {
+  pronouns: ["he", "him"],
+  code: [
+    "PHP",
+    "MySQL",
+    "Javascript",
+    "JQuery",
+    "Ajax",
+    "HTML",
+    "CSS",
+    "Python"
+  ],
+  tools: [
+    "Symfony",
+    "Laravel",
+    "Vue",
+    "Composer",
+    "Node",
+    "PWA"
+  ],
+  challenge: "Keeping the SFTP vscode extension fork up-to-date."
+}
+
+⚡ Fun fact: I can fold my right ear in two.
+
+
 <!--
 **Natizyskunk/Natizyskunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
