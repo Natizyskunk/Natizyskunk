@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+```php
 const Natan = {
   pronouns: ["he", "him"],
   code: [
@@ -22,6 +23,7 @@ const Natan = {
   ],
   challenge: "Keeping the SFTP vscode extension fork up-to-date."
 }
+```
 
 ⚡ Fun fact: I can fold my right ear in two.
 
