@@ -29,8 +29,6 @@ const Natan = {
 
 <a href="https://www.buymeacoffee.com/Natizyskunk" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
- [![Buy Me A Coffee](https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png)](https://www.buymeacoffee.com/Natizyskunk)
-
 <!--
 **Natizyskunk/Natizyskunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
