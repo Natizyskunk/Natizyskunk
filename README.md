@@ -5,7 +5,7 @@ const Natan = {
   pronouns: ["he", "him"],
   code: [
     "PHP",
-    "MySQL",
+    "SQL",
     "Javascript",
     "JQuery",
     "Ajax",
@@ -14,18 +14,20 @@ const Natan = {
     "Python"
   ],
   tools: [
-    "Symfony",
     "Laravel",
+    "Symfony",
+    "AngularJS",
     "Vue",
+    "PWA",
     "Composer",
-    "Node",
-    "PWA"
+    "Node"
   ],
   challenge: "Keeping the SFTP vscode extension fork up-to-date."
 }
 ```
 
-⚡ Fun fact: I can fold my right ear in two.
+- 🔭 I’m currently working on : Please reffer to `challenge` inside the `Natan` Object.
+- ⚡ Fun fact: I can fold my right ear in two.
 
 [![Buy Me A Coffee](https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png)](https://www.buymeacoffee.com/Natizyskunk)
 
