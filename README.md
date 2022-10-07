@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<!-- ![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Natizyskunk&theme=blueberry&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_owner=true&locale=en) -->
+![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Natizyskunk&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_owner=true&locale=en)
+
+
+<!-- ![Mes languages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Natizyskunk&layout=compact&theme=radical&hide_border=true&locale=en) -->
+
 ```php
 const Natan = {
   pronouns: ["he", "him"],
@@ -11,25 +17,30 @@ const Natan = {
     "Ajax",
     "HTML",
     "CSS",
-    "Python"
+    "Python",
+    "..."
   ],
   tools: [
     "Laravel",
     "Symfony",
-    "AngularJS",
     "Vue",
+    "AngularJS", 
     "PWA",
     "Composer",
-    "Node"
+    "Node",
+    "NPM",
+    "Sass",
+    "..."
   ],
-  challenge: "Keeping the SFTP vscode extension fork up-to-date."
+  challenge : "Keeping the SFTP vscode extension up-to-date."
 }
 ```
 
-- 🔭 I’m currently working on: Please reffer to `challenge` inside the `Natan` const Object.
-- ⚡ Fun fact: I can fold my right ear in two.
+- ⚡ Fun fact : I can fold my right ear in two.
+- 🔭 I’m currently working on : <br>
+![vscode-sftp](https://github-readme-stats.vercel.app/api/pin/?username=Natizyskunk&repo=vscode-sftp&theme=radical&hide_border=true&show_owner=true&locale=en)
 
-[![Buy Me A Coffee](https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png)](https://www.buymeacoffee.com/Natizyskunk)
+[![Buy Me A Coffee](https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/purple_img.png)](https://www.buymeacoffee.com/Natizyskunk)
 
 <!--
 **Natizyskunk/Natizyskunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
