@@ -40,7 +40,10 @@ const Natan = {
 
 - ⚡ Fun fact : I can fold my right ear in two.
 - 🔭 I’m currently working on : <br>
-![vscode-sftp](https://github-readme-stats.vercel.app/api/pin/?username=Natizyskunk&repo=vscode-sftp&theme=radical&hide_border=true&show_owner=true&locale=en)
+![vscode-sftp](https://github-readme-stats.vercel.app/api/pin/?username=Natizyskunk&repo=vscode-sftp&theme=radical&hide_border=true&show_owner=true&locale=fr)
+![flying-pages](https://github-readme-stats.vercel.app/api/pin/?username=Natizyskunk&repo=flying-pages&theme=radical&hide_border=true&show_owner=true&locale=fr)
+![symfony-docker](https://github-readme-stats.vercel.app/api/pin/?username=Natizyskunk&repo=symfony-docker&theme=radical&hide_border=true&show_owner=true&locale=fr)
+
 
 [![Buy Me A Coffee](https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/purple_img.png)](https://www.buymeacoffee.com/Natizyskunk)
 
