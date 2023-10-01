@@ -1,8 +1,17 @@
-### Hi there 👋
+## Hacktoberfest 2023
+
+Happy about **Hacktoberfest** ? So are we ! Don’t hack alone and join us on October 1st 2023. <br />
+It's the best time of the year to meet a few community members and get help on your pull requests !
+
+👨‍💻 Our top 1 project to participate in : **[vscode-sftp](https://github.com/Natizyskunk/vscode-sftp)**
+
+
+<!--  ##### -->
+
+## Hi there 👋
 
 <!-- ![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Natizyskunk&theme=blueberry&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_owner=true&locale=en) -->
 ![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Natizyskunk&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_owner=true&locale=en)
-
 
 <!-- ![Mes languages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Natizyskunk&layout=compact&theme=radical&hide_border=true&locale=en) -->
 
