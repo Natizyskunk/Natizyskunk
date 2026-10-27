@@ -60,7 +60,6 @@ const Natizyskunk = {
 #### 🔭 I’m currently working on :
 ![vscode-sftp](https://github-readme-stats.vercel.app/api/pin/?username=Natizyskunk&repo=vscode-sftp&theme=radical&hide_border=true&show_owner=true&locale=fr)
 ![flying-pages](https://github-readme-stats.vercel.app/api/pin/?username=Natizyskunk&repo=flying-pages&theme=radical&hide_border=true&show_owner=true&locale=fr)
-![symfony-docker](https://github-readme-stats.vercel.app/api/pin/?username=Natizyskunk&repo=symfony-docker&theme=radical&hide_border=true&show_owner=true&locale=fr)
 
 #### 🤔 I’m looking for help with :
 ![vscode-sftp](https://github-readme-stats.vercel.app/api/pin/?username=Natizyskunk&repo=vscode-sftp&theme=radical&hide_border=true&show_owner=true&locale=fr)
