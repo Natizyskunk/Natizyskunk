@@ -57,12 +57,13 @@ const Natizyskunk = {
 
 **⚡ Fun fact :** I can fold my right ear in two.
 
-#### 🔭 I’m currently working on :
+<!-- #### 🔭 I’m currently working on : -->
+#### 🔭 Best projects :
 ![vscode-sftp](https://github-readme-stats.vercel.app/api/pin/?username=Natizyskunk&repo=vscode-sftp&theme=radical&hide_border=true&show_owner=true&locale=fr)
 ![flying-pages](https://github-readme-stats.vercel.app/api/pin/?username=Natizyskunk&repo=flying-pages&theme=radical&hide_border=true&show_owner=true&locale=fr)
 
-#### 🤔 I’m looking for help with :
-![vscode-sftp](https://github-readme-stats.vercel.app/api/pin/?username=Natizyskunk&repo=vscode-sftp&theme=radical&hide_border=true&show_owner=true&locale=fr)
+<!-- #### 🤔 I’m looking for help with :
+![vscode-sftp](https://github-readme-stats.vercel.app/api/pin/?username=Natizyskunk&repo=vscode-sftp&theme=radical&hide_border=true&show_owner=true&locale=fr) -->
 
 ### Support
 [![Buy Me A Coffee](https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/purple_img.png)](https://www.buymeacoffee.com/Natizyskunk)
